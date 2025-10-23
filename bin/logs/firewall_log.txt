@@ -1,0 +1,12 @@
+Packet{sourceIP='192.168.1.179', destIP='10.0.0.4', sourcePort=10560, destPort=57, protocol='ICMP'} -> DENIED
+Packet{sourceIP='192.168.1.114', destIP='10.0.0.39', sourcePort=30580, destPort=695, protocol='UDP'} -> DENIED
+Packet{sourceIP='192.168.1.126', destIP='10.0.0.112', sourcePort=60540, destPort=300, protocol='TCP'} -> DENIED
+Packet{sourceIP='192.168.1.12', destIP='10.0.0.213', sourcePort=46846, destPort=768, protocol='UDP'} -> DENIED
+Packet{sourceIP='192.168.1.110', destIP='10.0.0.104', sourcePort=24318, destPort=815, protocol='UDP'} -> DENIED
+Packet{sourceIP='192.168.1.105', destIP='10.0.0.58', sourcePort=63532, destPort=367, protocol='UDP'} -> DENIED
+Packet{sourceIP='192.168.1.78', destIP='10.0.0.22', sourcePort=9954, destPort=671, protocol='TCP'} -> DENIED
+Packet{sourceIP='192.168.1.175', destIP='10.0.0.7', sourcePort=47017, destPort=916, protocol='TCP'} -> DENIED
+Packet{sourceIP='192.168.1.42', destIP='10.0.0.75', sourcePort=60234, destPort=1014, protocol='ICMP'} -> DENIED
+Packet{sourceIP='192.168.1.51', destIP='10.0.0.110', sourcePort=6415, destPort=472, protocol='ICMP'} -> DENIED
+Packet{sourceIP='192.168.1.67', destIP='10.0.0.6', sourcePort=54685, destPort=327, protocol='TCP'} -> DENIED
+Packet{sourceIP='192.168.1.223', destIP='10.0.0.104', sourcePort=7238, destPort=8, protocol='ICMP'} -> DENIED
