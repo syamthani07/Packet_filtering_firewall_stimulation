@@ -6,7 +6,7 @@ The firewall inspects packet information such as **source IP address, destinatio
 
 The goal of this project is to demonstrate how **rule-based packet filtering works in network security systems.**
 
----
+
 
 ## Features
 
@@ -16,7 +16,7 @@ The goal of this project is to demonstrate how **rule-based packet filtering wor
 - Demonstrates basic firewall functionality
 - Simple implementation for learning packet filtering concepts
 
----
+
 
 ## How It Works
 
@@ -26,13 +26,13 @@ The goal of this project is to demonstrate how **rule-based packet filtering wor
 4. If the packet matches an **allow rule**, it is accepted.
 5. If the packet matches a **deny rule**, it is blocked.
 
----
+
 
 ## Requirements
 
 - Python 3.x
 
----
+
 
 ## How to Run
 
